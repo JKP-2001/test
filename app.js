@@ -5,7 +5,7 @@ const port = 5000
 
 app.set('view engine','ejs');
 const mongoose = require("mongoose");
-const bodyParser = require('body-parser');
+// const bodyParser = require('body-parser');
 
 
 
